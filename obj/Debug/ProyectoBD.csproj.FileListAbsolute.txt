@@ -1,0 +1,79 @@
+C:\Users\Tadeo\source\repos\ProyectoBD\bin\Debug\ProyectoBD.exe.config
+C:\Users\Tadeo\source\repos\ProyectoBD\bin\Debug\ProyectoBD.exe
+C:\Users\Tadeo\source\repos\ProyectoBD\bin\Debug\ProyectoBD.pdb
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.csproj.AssemblyReference.cache
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Properties.Resources.resources
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Dashboard.resources
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.csproj.GenerateResource.cache
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.csproj.CoreCompileInputs.cache
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.exe
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.pdb
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Clientes.resources
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Inventario.resources
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Ventas.resources
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.BuscarCliente.resources
+C:\Users\Tadeo\source\repos\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Libros.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\bin\Debug\ProyectoBD.exe.config
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\bin\Debug\ProyectoBD.exe
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\bin\Debug\ProyectoBD.pdb
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.csprojAssemblyReference.cache
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Properties.Resources.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.BuscarCliente.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Clientes.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Dashboard.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Libros.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Inventario.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Ventas.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.csproj.GenerateResource.cache
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.csproj.CoreCompileInputs.cache
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.exe
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.pdb
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.AgregarEmpleado.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Conocenos.resources
+C:\Users\kmdct\OneDrive\Desktop\Trabajos de Rita\Nueva carpeta\ProyectoBD\obj\Debug\ProyectoBD.Ventanas.Prestamos.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.csproj.AssemblyReference.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Properties.Resources.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.AgregarEmpleado.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.BuscarCliente.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.Clientes.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.Conocenos.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.Dashboard.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.Libros.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.csproj.GenerateResource.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.csproj.CoreCompileInputs.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.exe
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.pdb
+C:\Users\Tadeo\source\repos\ProyectoBDV2\bin\Debug\ProyectoBD.exe.config
+C:\Users\Tadeo\source\repos\ProyectoBDV2\bin\Debug\ProyectoBD.exe
+C:\Users\Tadeo\source\repos\ProyectoBDV2\bin\Debug\ProyectoBD.pdb
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.PrestarLibro.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.BuscarEmpleado.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.BuscarLibro.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.Estados.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.HistorialPrestamos.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2\obj\Debug\ProyectoBD.Ventanas.RegistrarRegreso.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\bin\Debug\ProyectoBD.exe.config
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\bin\Debug\ProyectoBD.exe
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\bin\Debug\ProyectoBD.pdb
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.csproj.AssemblyReference.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Properties.Resources.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.AgregarEmpleado.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.BuscarCliente.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.BuscarEmpleado.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.BuscarLibro.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.Clientes.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.Conocenos.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.Dashboard.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.Estados.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.HistorialPrestamos.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.Libros.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.PrestarLibro.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.RegistrarRegreso.resources
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.csproj.GenerateResource.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.csproj.CoreCompileInputs.cache
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.exe
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.pdb
+C:\Users\Tadeo\source\repos\ProyectoBDV2.1\obj\Debug\ProyectoBD.Ventanas.StockLibros.resources
